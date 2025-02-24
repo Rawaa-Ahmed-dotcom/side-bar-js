@@ -150,11 +150,11 @@ let directionContainer = document.querySelector(".direction-cards");
 
 const directions = [
     {
-        image :  "./../images/ltr.png",
+        image :  "../images/ltr.png",
         title : "ltr",
     },
     {
-        image :  "./../images/rtl.png",
+        image :  "../images/rtl.png",
         title : "rtl",
     }
 ];
@@ -183,11 +183,11 @@ let modesContainer = document.querySelector(".modes-cards");
 
 const darkModes = [
     {
-        image : "./../images/dark.png",
+        image : "../images/dark.png",
         title : "Dark"
     },
     {
-        image : "./../images/light.png",
+        image : "../images/light.png",
         title: "Light",
     }
 ];
